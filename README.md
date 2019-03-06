@@ -12,6 +12,6 @@ K-Means is a data grouping algorithm. It delimits, without supervision and with 
 
 The clusters are based, for a customer, on the average amount spent by purchase and the number of distinct days when a purchase was made.
 
-![]()
+![](https://raw.githubusercontent.com/Hugo-Nattagh/CustomerSegmentation/master/ClustersBI.png)
 
 This is the visualization of the results, made with Microsoft Power BI.
